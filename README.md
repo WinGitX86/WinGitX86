@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
 - 🐍 I love working with Python.
 - 🐧 A big fan of Linux and its open ecosystem.
 - 🤡 Currently, I'm in the upper grades of middle school. Schoolwork keeps me incredibly busy. You must not laugh, because this is just awful.
+- ☭ I am willing to serve public ownership.
 
 ## 🛠️ Languages & Tools
 
@@ -24,5 +25,4 @@ Welcome to my GitHub profile!
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 > "All under heaven is for the public." — Sun Yat-sen
