@@ -7,6 +7,7 @@ Welcome to my GitHub profile!
 - 🎓 I'm currently a student passionate about coding and open source.
 - 🐍 I love working with Python.
 - 🐧 A big fan of Linux and its open ecosystem.
+- 🤡 Currently, I'm in the upper grades of middle school. Schoolwork keeps me incredibly busy. You must not laugh, because this is just awful.
 
 ## 🛠️ Languages & Tools
 
