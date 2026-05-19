@@ -4,6 +4,8 @@ Welcome to my GitHub profile!
 
 ## 👨‍🎓 About Me
 
+![Translation](https://img.shields.io/badge/%E6%80%9D%E7%B4%A2-%E5%85%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C-green)
+
 - 🎓 I'm currently a student passionate about coding and open source.
 - 🐍 I love working with Python.
 - 🐧 A big fan of Linux and its open ecosystem.
