@@ -1,11 +1,11 @@
 [![Built with OpenCode](https://opencode.ai/brand/badges/
      opencode-built-with-a-light-20.svg)](https://opencode.ai)
 
-     # 黎鱳
+# 黎鱳
 
      近代史學者，也是 Python 程式設計師，正朝 AI 研究的方向走。
 
-     ## 我喜歡
+## 我喜歡
 
      - 終端機：在 Android 的 Termux 上開發，
      喜歡沒有圖形介面也能把事情做好的感覺
@@ -15,7 +15,7 @@
      - 數學的耐心：算圓周率、追究一個數字能延伸到多遠
      - 歷史與技術的交會：相信理解原理，比會用工具更重要
 
-     ## 聯絡
+## 聯絡
 
      - GitHub：[@WinGitX86](https://github.com/WinGitX86)
      - Email：3851921322@qq.com
