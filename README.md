@@ -1,5 +1,4 @@
-[![Built with OpenCode](https://opencode.ai/brand/badges/
-     opencode-built-with-a-light-20.svg)](https://opencode.ai)
+[![Built with OpenCode](https://opencode.ai/brand/badges/opencode-built-with-a-light-20.svg)](https://opencode.ai)
 
 # 黎鱳
 
