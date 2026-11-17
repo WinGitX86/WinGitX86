@@ -1,12 +1,3 @@
-# Hi there, I'm WinGitX86! 👋
-
-Welcome to my GitHub profile!
-
-## 👨‍🎓 About Me
-
-![Translation](https://img.shields.io/badge/%E6%80%9D%E7%B4%A2-%E5%85%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C-green)
-![Translation](https://img.shields.io/github/license/WinGitX86/WinGitX86)
-
 [![Built with OpenCode](https://opencode.ai/brand/badges/
      opencode-built-with-a-light-20.svg)](https://opencode.ai)
 
@@ -28,7 +19,3 @@ Welcome to my GitHub profile!
 
      - GitHub：[@WinGitX86](https://github.com/WinGitX86)
      - Email：3851921322@qq.com
-
----
-
-> "All under heaven is for the public." — Sun Yat-sen
